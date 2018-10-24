@@ -1,14 +1,13 @@
 # SITE CONFIGURATION
-title: HONGYU ZHAO'S LAB # your site title
+title: Hongyu Zhao's Lab # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
-  CENTER FOR STATISTICAL GENOMICS AND PROTEOMICS
+  Centor For Statistical Genomics and Proteomics
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
 # SEO PLUGIN
 social:
   name: Your Name
@@ -28,7 +27,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  CENTER FOR STATISTICAL GENOMICS AND PROTEOMICS
+  CENTOR FOR STATISTICAL GENOMICS AND PROTEOMICS
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
@@ -70,3 +69,5 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+

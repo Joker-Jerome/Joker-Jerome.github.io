@@ -4,13 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+# Zhao's Lab
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
+Our group develops mathematical, statistical, and computational methods to address scientific problems in molecular biology and genetics. The graduate students in our group are from the Department of Biostatistics at Yale School of Public Health or the Interdepartmental Doctoral Program in Computational Biology and Bioinformatics at Yale. We collaborate with many research groups at Yale and other institutions on the biological basis and treatment of cancer, substance dependence, psychiatric disorders, aneurysm, hypertension, lung diseases, and others. We also collaborate with plant geneticists and evolutionary biologists using next generation sequencing and microarrays to identify genetic associations with various traits.
 
-Check the form below to see it in action!
-
-### Example Formspree contact form with validation and reCaptcha
+The Principal Investigator is Prof. Hongyu Zhao.
 
 Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
