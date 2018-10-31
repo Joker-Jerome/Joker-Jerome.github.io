@@ -1,6 +1,7 @@
 ---
 layout: post
 featured-img: welcome_to_zhao
+categories: Guides
 ---
 # Welcome to Zhao's Lab
 
