@@ -25,4 +25,4 @@ September 2012 – July 2016
 June 2014 – September 2014
 
 - Summer school 
-- Research assistant
+- Research assistant at Johns Hopkins Bloomberg School of Public Health
