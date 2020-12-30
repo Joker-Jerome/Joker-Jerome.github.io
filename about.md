@@ -1,13 +1,28 @@
 ---
+title: 'About Me'
+date: 2018-02-22T17:01:34+07:00
 layout: page
-title: About
-permalink: /about/
+bodyClass: page-about
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+## Yale University			        	     										
+August 2016 – Present
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+- PhD candidate in Biomedical Data Science 
+	- Graduate Teaching Assistant in Department of Statistics and Data Science (2019 – 2020)
+	- Computational Tools for Data Science and Introductory Machine Learning
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+## Fudan University 
+
+September 2012 – July 2016
+
+- Major in Biotechnology, School of Life Science and School of Pharmacy
+- Coursework for Data Science Minor, School of Computer Science 
+
+
+## The Johns Hopkins University 
+
+June 2014 – September 2014
+
+- Summer school 
+- Research assistant

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Data science",
+    "description": "statistical learning, data mining, data visualization",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Healthcare",
+    "description": "due diligence, pro bono consulting",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Web development",
+    "description": "django, ruby",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]

@@ -1,7 +1,5 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
-gem "jekyll", "~> 3.0"
-gem "jekyll-sitemap"
-gem "jekyll-seo-tag"
-gem "jekyll-gist"
-gem "octopress"
+gem "jekyll", "~> 4.1"
+gem "jekyll-environment-variables"
+gem "webrick"
