@@ -1,0 +1,48 @@
+I" <p>For the last five years, I have been developing machine learning algorithms for various biomedical applications.</p>
+
+<h2 id="development-and-maintenance-of-novel-statistical-frameworks-for-large-scale-gene-association-tests">Development and maintenance of novel statistical frameworks for large-scale gene association tests.</h2>
+
+<ul>
+  <li>Maintaining a SQLite database for 23K imputation models trained from various penalized models.</li>
+  <li>Developed a novel prediction approach based on bounded-variables least-squares, a penalized regression method with box-constraints, which outperforms elastic-net-based methods by 72.7% in R-squared.</li>
+  <li>Designed an iterative elimination strategy to select uncorrelated features.</li>
+  <li>Built the testing procedure to detect genetic signal with the cross-tissue joint test.</li>
+  <li>Publication: A statistical framework for cross-tissue transcriptome-wide association analysis. Nature Genetics 2019, 51, 568-576. (Python software: github.com/Joker-Jerome/utmost).</li>
+  <li>Working paper: An integrative transcriptome-wide association test based on bounded-variable least-squares. (R software: github.com/Joker-Jerome/twas_bvls).</li>
+</ul>
+
+<h2 id="patient-outcome-prediction-with-kernel-boosting-algorithms">Patient outcome prediction with kernel-boosting algorithms.</h2>
+
+<ul>
+  <li>Built a general predictive modeling procedure for patient outcome prediction based on both genetic profiles and clinical features, which can be used for a variety of patient outcomes including binary, continuous, and time-to-event outcomes.</li>
+  <li>Developed a novel boosting method in which various loss functions are optimized through a series of kernel functions calculated based on pathway annotations.</li>
+  <li>The proposed method outperforms competing methods including random forest, multiple kernel learning, and nonparametric pathway-based regression in multiple real datasets.</li>
+  <li>Publication: A pathway-based kernel boosting method for sample classification using genomic data. Genes 2019, 10, 670. (Python software: github.com/Joker-Jerome/PKB).</li>
+  <li>Working paper: A general kernel boosting framework integrating pathways for predictive modeling based on genomic data. (Python software: github.com/zengliX/PKB2).</li>
+</ul>
+
+<h2 id="a-recommendation-system-for-drug-repositioning-with-kolmogorovsmirnov-based-ranking">A recommendation system for drug repositioning with Kolmogorov–Smirnov-based ranking.</h2>
+
+<ul>
+  <li>Proposed a multiomics statistical framework which integrates data from different resources and different experimental designs to prioritize drugs which have repurposing potential for a specific disease.</li>
+  <li>Implemented a ranking method based on calculating Kolmogorov–Smirnov statistics for multiple drug feature profiles, which turned out to be an effective strategy for repurposed drug ranking (enrichment test p-value 5.3×10-10 ).</li>
+  <li>2020 Joint Statistical Meeting Presentation: A multi-omics statistical framework for drug repositioning. (R software: github.com/Joker-Jerome/dr_multiomics).</li>
+</ul>
+
+<h2 id="polypharmacy-risk-assessment-based-on-drug-drug-interaction-prediction">Polypharmacy risk assessment based on drug-drug interaction prediction.</h2>
+
+<ul>
+  <li>Built deep learning models with TensorFlow and ensemble models with XGBoost to predict the drug-drug interactions.</li>
+  <li>Developed the community-based cross-validation procedure to overcome the overfitting by modularity-based community detection.</li>
+  <li>Designed the polypharmacy risk scores based on predicted exposure burden and Cox-regression models based on VA Hospital comprehensive electronic health records.</li>
+</ul>
+
+<h2 id="other-projects">Other Projects</h2>
+
+<ul>
+  <li>Deep learning models for elucidating the architectures of transcription regulation networks.</li>
+  <li>Bayesian hierarchical models for identification of trait-associated genes for major depressive disorder patients.</li>
+  <li>A Django web application for predicting genetic mutation deleteriousness by ensemble learning.</li>
+</ul>
+
+:ET

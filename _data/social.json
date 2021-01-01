@@ -8,5 +8,10 @@
     "name": "Twitter",
     "link": "https://twitter.com/zhaolong_yu",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/zhaolong-yu-6005a4112/",
+    "image": "images/social/linkedin.svg"
   }
 ]
