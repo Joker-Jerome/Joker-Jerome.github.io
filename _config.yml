@@ -11,7 +11,7 @@ logo:
   desktop: #"images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'serif Jekyll'
+  copyright_text: 'serif Jekyll & Jerome'
 
 seo:
   meta_og_title: "Jerome Yu"
