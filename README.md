@@ -5,7 +5,7 @@ Serif is a modern business theme for Jekyll. It contains multiple content types 
 [Live Demo](https://jekyll-serif.netlify.app/) | 
 [Zerostatic Themes](https://www.zerostatic.io)
 
-![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+![Jekyll Serif Theme screenshot](https://github.com/Joker-Jerome/Joker-Jerome.github.io/blob/master/images/home.png)
 
 ## Theme features
 
